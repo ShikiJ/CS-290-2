@@ -1,0 +1,12 @@
+.outer-content{
+  width: 75%;
+  text-align: left;
+  background: pink;
+  padding: 20px; 
+}
+
+.inner-content{
+  background: blue;
+  text-align: center;
+  width: 75%;
+}
